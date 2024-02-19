@@ -1,0 +1,25 @@
+.box{
+
+ 
+    box-shadow: 10px 5px 5px rgb(138, 138, 138);
+    text-align: center;
+    width: 350px;
+margin: 20px;
+border: 0.5px solid black;
+}
+
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    background-color: black;
+}
+
+h4{
+    font-size: 25px;
+    color: white;
+}
+p{
+    color: white;
+}
